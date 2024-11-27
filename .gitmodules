@@ -1,3 +1,6 @@
 [submodule "TaskManager"]
 	path = TaskManager
 	url = https://github.com/Best-Turner/ConsoleAppTaskManager.git
+[submodule "Programming-chatbot"]
+	path = Programming-chatbot
+	url = https://github.com/Best-Turner/Programming-chatbot.git
